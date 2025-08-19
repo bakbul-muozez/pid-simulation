@@ -1,1 +1,6 @@
-.env.*
+# Ortam Değişkenleri
+.env
+.env.local
+.env.production
+.env.test
+
